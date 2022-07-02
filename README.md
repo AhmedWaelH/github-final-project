@@ -1,1 +1,1 @@
-# guthub-final-project
+# github-final-project
